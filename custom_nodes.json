@@ -130,5 +130,13 @@
   {
     "repo": "https://github.com/rgthree/rgthree-comfy",
     "commit": "ab0a59a"
+  },
+  {
+    "repo": "https://github.com/pythongosssss/ComfyUI-WD14-Tagger",
+    "commit": "4f1a857"
+  },
+  {
+    "repo": "https://github.com/kealiu/ComfyUI-ZeroShot-MTrans",
+    "commit": "c116f46"
   }
 ]
